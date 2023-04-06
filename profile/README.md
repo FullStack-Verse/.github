@@ -40,7 +40,7 @@
 | 34 | [Electronics Repair Management System]() | PHP |
 | 35 | [Courier Management System]() | PHP |
 | 36 | [Census and Certificate Management System]() | PHP |
-| 37 | [Payroll Management System]() | PHP |
+| 37 | [Payroll Management System]() | PHP |*
 | 38 | [Movie Booking System]() | PHP |
 | 39 | [Bus Ticket Booking System]() | PHP |
 | 40 | [Laboratory Management System]() | PHP |
@@ -48,7 +48,7 @@
 | 42 | [National Budget Management System]() | PHP |
 | 43 | [RTO Management System]() | PHP |
 | 44 | [Criminal Records Management System]() | PHP |
-| 45 | [Smart Voting Management System]() | PHP |
+| 45 | [Smart Voting Management System]() | PHP |*
 | 46 | [Pets Management System]() | PHP |
 | 47 | [Nursery Management Systen]() | PHP |
 | 48 | [Heritage Management and Maintenance System]() | PHP |
@@ -86,4 +86,3 @@
 | 80 | [Space Management System]() | PHP |
 | 81 | [Skill Tutorial Management System]() | PHP |
 | 82 | [Blogger / Writer Management System]() | PHP |
-| 83 | [Online Voting Management System]() | PHP |
