@@ -5,3 +5,4 @@
 | S. No. | Project Title | Tech |
 |--------|---------------|------|
 | 1 | [Pharmacy Management System](https://github.com/FullStack-Verse/Pharmacy-Management-System) | PHP |
+| 2 | [Pathological Lab Management System](https://github.com/FullStack-Verse/Pathological-Lab-Management-System) | PHP |
