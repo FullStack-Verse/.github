@@ -7,3 +7,4 @@
 | 1 | [Pharmacy Management System](https://github.com/FullStack-Verse/Pharmacy-Management-System) | PHP |
 | 2 | [Pathological Lab Management System](https://github.com/FullStack-Verse/Pathological-Lab-Management-System) | PHP |
 | 3 | [Blood Bank Management System](https://github.com/FullStack-Verse/Blood-Bank-Management) | Django |
+| 4 | [Hospital Management System](https://github.com/FullStack-Verse/HMS) | PHP |
