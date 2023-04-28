@@ -9,5 +9,6 @@
 | 3 | [Blood Bank Management System](https://github.com/FullStack-Verse/Blood-Bank-Management) | Django |
 | 4 | [Hospital Management System](https://github.com/FullStack-Verse/HMS) | PHP |
 | 5 | [Client Management System](https://github.com/FullStack-Verse/Client-Management-System) | PHP |
-| 6 | [Online-Marriage-Registration-System](https://github.com/FullStack-Verse/Online-Marriage-Registration-System) | PHP |
+| 6 | [Online Marriage Registration System](https://github.com/FullStack-Verse/Online-Marriage-Registration-System) | PHP |
+| 7 | [Birth Certificate Management System](https://github.com/FullStack-Verse/Birth-Certificate-Management-System) | PHP |
 
