@@ -11,4 +11,4 @@
 | 5 | [Client Management System](https://github.com/FullStack-Verse/Client-Management-System) | PHP |
 | 6 | [Online Marriage Registration System](https://github.com/FullStack-Verse/Online-Marriage-Registration-System) | PHP |
 | 7 | [Birth Certificate Management System](https://github.com/FullStack-Verse/Birth-Certificate-Management-System) | PHP |
-
+| 8 | [Beauty Parlour Management System](https://github.com/FullStack-Verse/Beauty-Parlour-Management-System) | PHP |
