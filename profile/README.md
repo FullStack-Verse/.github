@@ -14,3 +14,4 @@
 | 8 | [Beauty Parlour Management System](https://github.com/FullStack-Verse/Beauty-Parlour-Management-System) | PHP |
 | 9 | [Zoo Management System](https://github.com/FullStack-Verse/Zoo-Management-System) | PHP |
 | 10 | [Auto/Taxi Stand Management System](https://github.com/FullStack-Verse/Taxi-Stand-Management-System) | PHP |
+| 11 | [Fire Reporting Management System](https://github.com/FullStack-Verse/Fire-Reporting-Management-System) | PHP |
