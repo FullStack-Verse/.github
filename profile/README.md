@@ -13,3 +13,4 @@
 | 7 | [Birth Certificate Management System](https://github.com/FullStack-Verse/Birth-Certificate-Management-System) | PHP |
 | 8 | [Beauty Parlour Management System](https://github.com/FullStack-Verse/Beauty-Parlour-Management-System) | PHP |
 | 9 | [Zoo Management System](https://github.com/FullStack-Verse/Zoo-Management-System) | PHP |
+| 10 | [Auto/Taxi Stand Management System](https://github.com/FullStack-Verse/Taxi-Stand-Management-System) | PHP |
