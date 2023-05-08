@@ -21,3 +21,4 @@
 | 15 | [COVID-19 Testing and Report Management System](https://github.com/FullStack-Verse/COVID) | PHP |
 | 16 | [Library Management System](https://github.com/FullStack-Verse/LMS) | PHP |
 | 17 | [Bank Locker Management System](https://github.com/FullStack-Verse/BLMS) | PHP |
+| 18 | [Car Rental Management System](https://github.com/FullStack-Verse/CRMS) | PHP |
