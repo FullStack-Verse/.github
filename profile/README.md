@@ -23,3 +23,4 @@
 | 17 | [Bank Locker Management System](https://github.com/FullStack-Verse/BLMS) | PHP |
 | 18 | [Car Rental Management System](https://github.com/FullStack-Verse/CRMS) | PHP |
 | 19 | [Old Age Home Management System](https://github.com/FullStack-Verse/OAHMS) | PHP |
+| 20 | [Employee Record Management System](https://github.com/FullStack-Verse/ERMS) | PHP |
