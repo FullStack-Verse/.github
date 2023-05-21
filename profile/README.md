@@ -24,3 +24,4 @@
 | 18 | [Car Rental Management System](https://github.com/FullStack-Verse/CRMS) | PHP |
 | 19 | [Old Age Home Management System](https://github.com/FullStack-Verse/OAHMS) | PHP |
 | 20 | [Employee Record Management System](https://github.com/FullStack-Verse/ERMS) | PHP |
+| 21 | [Yoga Coaching Management System](https://github.com/FullStack-Verse/YMS) | PHP |
