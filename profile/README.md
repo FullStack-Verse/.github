@@ -27,3 +27,4 @@
 | 21 | [Yoga Coaching Management System](https://github.com/FullStack-Verse/YMS) | PHP |
 | 22 | [Dental Clinic Management System](https://github.com/FullStack-Verse/Dental) | PHP |
 | 23 | [Admin-sided Courier Management System](https://github.com/FullStack-Verse/courier) | PHP |
+| 24 | [Hostel Management System](https://github.com/FullStack-Verse/hostel) | PHP |
