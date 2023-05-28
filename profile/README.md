@@ -37,3 +37,4 @@
 | 31 | [Dairy Farm Management System](https://github.com/FullStack-Verse/DF) | PHP |
 | 32 | [Vehicle Parking Management System](https://github.com/FullStack-Verse/parking/tree/master) | PHP |
 | 33 | [Inventory Management System](https://github.com/FullStack-Verse/IMS) | PHP |
+| 34 | [Hotel Management System](https://github.com/FullStack-Verse/hotel) | PHP |
