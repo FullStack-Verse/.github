@@ -39,3 +39,4 @@
 | 33 | [Inventory Management System](https://github.com/FullStack-Verse/IMS) | PHP |
 | 34 | [Hotel Management System](https://github.com/FullStack-Verse/hotel) | PHP |
 | 35 | [Apartment Visitor Management System](https://github.com/FullStack-Verse/AVMS) | PHP |
+| 36 | [Clinic Management System](https://github.com/FullStack-Verse/Clinic) | PHP |
