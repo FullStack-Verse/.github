@@ -40,3 +40,4 @@
 | 34 | [Hotel Management System](https://github.com/FullStack-Verse/hotel) | PHP |
 | 35 | [Apartment Visitor Management System](https://github.com/FullStack-Verse/AVMS) | PHP |
 | 36 | [Clinic Management System](https://github.com/FullStack-Verse/Clinic) | PHP |
+| 37 | [Integrated Company Management System](https://github.com/FullStack-Verse/Company-Management-System) | PHP / CodeIgnitor |
